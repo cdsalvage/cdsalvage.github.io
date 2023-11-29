@@ -1,0 +1,9 @@
+body {
+	margin-top: 3vh;
+	background-color: #abb8c3;
+}
+
+#terminal {
+	max-width: 90vw;
+	max-height: 90vh;
+}
